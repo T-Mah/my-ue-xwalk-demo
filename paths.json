@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/eds-forms/:/",
-    "/content/eds-forms/configuration:/.helix/config.json",
-    "/content/eds-forms/metadata:/metadata.json"
+    "/content/my-ue-xwalk-demo/:/",
+    "/content/my-ue-xwalk-demo/configuration:/.helix/config.json",
+    "/content/my-ue-xwalk-demo/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/eds-forms/"
+    "/content/my-ue-xwalk-demo/"
   ]
 }
